@@ -4,3 +4,4 @@ Test git status
 A new row again.
 Git has a mutable index called stage.
 Any difference?
+diff in cache>
